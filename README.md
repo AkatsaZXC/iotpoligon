@@ -1,5 +1,5 @@
-# iotpoligon
-
+# IoT Poligon
+This is the official IoT Poligon repository
 # Devices
 `Temperature sensor`
 `Smart lamp`
